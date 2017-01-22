@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Week Thirteen
+published: false
 ---
 
 ### What did I do this past week?
