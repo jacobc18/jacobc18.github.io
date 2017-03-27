@@ -4,13 +4,13 @@ title: Week Eight
 ---
 
 ### What did I do this past week?
-This past week, I met with my Project 3 group and we decided that we were going to do rocket launches for our project, using the [launchlibrary](https://launchlibrary.net/1.1/docs/api.html) api. In class, Professor Downing discussed the third project, including some of the key things he would like to see.
+This past week, my project 3 group and I finished and turned in project 3. The website is looking good for this stage in the project adn I can't wait to see how it continues to improve. In class, Professor Downing went over relational algebra and we implemented various relational algebra methods in Python.
 
 ### What's in my way?
-This week is Spring Break, so I will be mostly taking a break from school. However I will be thinking about Project 3 and also applying online for internships. I will also be working on a small project of my own, for fun.
+This week I need to work on project 3 and probably meet with my group a few times. I will also be studying for some upcoming exams and keeping up with my other classes.
 
 ### What will I do next week?
-Next week, I will be working on phase one of Project 3 with my group. We will be setting everything up so that we will have an easier time in the next few phases. This will include designing the website, setting up the AWS server, collecting 3 instances of our models, and going through some tutorials for things like Flask.
+Next week, I will be completing quizzes and reading assignments for all of my classes, as well as going to the doctor since I've been sick for a week which is awful during the school year. 
 
 ### What's my experience of the class?
-I’m excited to start working on Project 3. I know it is going to be a lot of information and will use many tools. This will be the first time I’ve been a part of such a large group trying to deliver a project (my group has 6 members), so I am interested to see how that affects the workflow of the project.
+Working on project 3 was exciting since my group has a total of 6 members. It was kind of hectic towards the end, right before we turned it in, because we didn't realize some of the requirements for our website and had to implement them last minute. My primary job was to create the unit tests for the back-end which was fun to learn how to do for Flask models. Overall it was a good experience and I'm excited for phase 2.
